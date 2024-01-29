@@ -1,10 +1,10 @@
-# refresh
-Experimenting with GitHub features to refresh knowledge
-First, playing around with Markdown elements supported on GitHub.
-# First-Level Heading
-## Second-Level Heading
-### Third-Level Heading
+# Epi-Info-Android-Companion
+Android Companion for Epi Info
 
-**Bold text is formatted with following:** "**" or "__"
-* *Italized text can be created using:* * "* *" or "_ _"
+# Release Notes
+# Version 0.1.0
+
+### Features
+### Bug Fixes
+### Known Issues
 
