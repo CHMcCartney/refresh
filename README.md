@@ -2,7 +2,7 @@
 Android Companion for Epi Info
 
 # Release Notes
-# Version 0.1.0
+## Version 0.1.0
 
 ### Features
 ### Bug Fixes
