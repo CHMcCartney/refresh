@@ -1,5 +1,5 @@
 # Epi Info Android Companion
-Updated Android version for the Epi Info application developed by the Centers for Disease Control and Prevention.
+Updated Android version for the Epi Info application developed by the Centers for Disease Control and Prevention. 
 
 ## Release Notes
 ### Version 0.1.0
